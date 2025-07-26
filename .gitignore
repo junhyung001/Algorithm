@@ -1,0 +1,11 @@
+*
+!.gitignore
+!README.md
+!*.c
+!*.cpp
+!*.py
+!beakjoon/
+!beakjoon/tier/
+!beakjoon/tier/bronze/
+!beakjoon/tier/silver/
+!beakjoon/tier/Gold/

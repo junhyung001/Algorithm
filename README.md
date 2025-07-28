@@ -28,4 +28,6 @@ Let’s grow, one problem at a time 🚀
 | 6   | 10798          | 세로읽기 (Reading Vertically)                  | C        | [🔗](https://www.acmicpc.net/problem/10798)   |
 | 7   | 10988          | 팰린드롬인지 확인하기 (Palindrome Check)       | C++      | [🔗](https://www.acmicpc.net/problem/10988)   |
 | 8   | 14626          | ISBN                    | C++      | [🔗](https://www.acmicpc.net/problem/14626)   |
-| 9   | 2747           | 피보나치 수(Fibonacci numbers)                  | C++      | [🔗](https://www.acmicpc.net/problem/2747)   |
+| 9   | 2747           | 피보나치 수(Fibonacci numbers)                  | C      | [🔗](https://www.acmicpc.net/problem/2747)   |
+| 10   | 2566           | 최댓값 (maximum value)                  | C      | [🔗](https://www.acmicpc.net/problem/2566)   |
+| 11   | 5622           | 다이얼(dial)                  | C      | [🔗](https://www.acmicpc.net/problem/5622)   |

@@ -31,3 +31,5 @@ Let’s grow, one problem at a time 🚀
 | 9   | 2747           | 피보나치 수(Fibonacci numbers)                  | C      | [🔗](https://www.acmicpc.net/problem/2747)   |
 | 10   | 2566           | 최댓값 (maximum value)                  | C      | [🔗](https://www.acmicpc.net/problem/2566)   |
 | 11   | 5622           | 다이얼(dial)                  | C      | [🔗](https://www.acmicpc.net/problem/5622)   |
+| 12   | 15596       | 정수 N개의 합(Sum of N integers)              | C      | [🔗](https://www.acmicpc.net/problem/15596)   |
+| 13   | 1110       | 더하기 사이클(plus cycle)              | C      | [🔗](https://www.acmicpc.net/problem/1110)   |

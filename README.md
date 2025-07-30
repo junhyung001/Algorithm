@@ -33,3 +33,4 @@ Let’s grow, one problem at a time 🚀
 | 11   | 5622           | 다이얼(dial)                  | C      | [🔗](https://www.acmicpc.net/problem/5622)   |
 | 12   | 15596       | 정수 N개의 합(Sum of N integers)              | C      | [🔗](https://www.acmicpc.net/problem/15596)   |
 | 13   | 1110       | 더하기 사이클(plus cycle)              | C      | [🔗](https://www.acmicpc.net/problem/1110)   |
+| 14   | 2609       | 최대공약수와 최대공배수(Gcd and lcm )              | C      | [🔗](https://www.acmicpc.net/problem/2609)   |

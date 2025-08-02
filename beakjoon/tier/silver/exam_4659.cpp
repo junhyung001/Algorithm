@@ -75,7 +75,7 @@ int main(){
 
     while (true){
         cin >> input;
-        if(input.compare("end") == 0 ) {
+        if(input== "end" ) {
             break;
         } 
 

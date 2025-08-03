@@ -37,3 +37,4 @@ Let’s grow, one problem at a time 🚀
 | 15   | 1712       | 손익분기점(Break-even Point)                         | C      | [🔗](https://www.acmicpc.net/problem/1712)   |
 | 16   | 4659       | 비밀번호 발음하기 (Pronouncing Password)             | C      | [🔗](https://www.acmicpc.net/problem/4659)   |
 | 17   | 2798       | 블랙잭 (Blackjack)                                   | C      | [🔗](https://www.acmicpc.net/problem/2798)   |
+| 18   | 11653      | 소인수분해 (Factorization)                           | C      | [🔗](https://www.acmicpc.net/problem/11653)   |

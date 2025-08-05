@@ -39,3 +39,4 @@ Let’s grow, one problem at a time 🚀
 | 17   | 2798       | 블랙잭 (Blackjack)                                   | C      | [🔗](https://www.acmicpc.net/problem/2798)   |
 | 18   | 11653      | 소인수분해 (Factorization)                           | C      | [🔗](https://www.acmicpc.net/problem/11653)   |
 | 19   | 2581       | 소수(decimal)                                              | C      | [🔗](https://www.acmicpc.net/problem/2581)   |
+| 20   | 10808      | 알파벳 개수(Alphabet Count)                                | C      | [🔗](https://www.acmicpc.net/problem/10808)  |

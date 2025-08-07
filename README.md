@@ -41,3 +41,4 @@ Let’s grow, one problem at a time 🚀
 | 19   | 2581       | 소수(decimal)                                              | C      | [🔗](https://www.acmicpc.net/problem/2581)   |
 | 20   | 10808      | 알파벳 개수(Alphabet Count)                                | C      | [🔗](https://www.acmicpc.net/problem/10808)  |
 | 21   | 2442      | 별 찍기 - 5 (Star Printing - 5)                            | C      | [🔗](https://www.acmicpc.net/problem/2442)  |
+| 22   | 1259      | 팰린드롬수 (Palindrome Number)                            | C++      | [🔗](https://www.acmicpc.net/problem/1259)  |

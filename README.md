@@ -44,3 +44,5 @@ Let’s grow, one problem at a time 🚀
 | 22   | 1259      | 팰린드롬수 (Palindrome Number)                            | C++      | [🔗](https://www.acmicpc.net/problem/1259)  |
 | 23   | 23882     | 선택 정렬 2 (Selection Sort 2)                             | C      | [🔗](https://www.acmicpc.net/problem/23882)  |
 | 24   | 23968     | 버블 정렬 2 (Bubble Sort 1)                               | C      | [🔗](https://www.acmicpc.net/problem/23968)  |
+| 25 | 23881 | 선택 정렬 1 (Selection Sort 1) | C  | [🔗](https://www.acmicpc.net/problem/23881) |
+| 26 | 23969 | 버블 정렬 2 (Bubble Sort 2)    | C  | [🔗](https://www.acmicpc.net/problem/23969) |

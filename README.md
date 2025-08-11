@@ -46,3 +46,4 @@ Let’s grow, one problem at a time 🚀
 | 24   | 23968     | 버블 정렬 2 (Bubble Sort 1)                               | C      | [🔗](https://www.acmicpc.net/problem/23968)  |
 | 25 | 23881 | 선택 정렬 1 (Selection Sort 1) | C  | [🔗](https://www.acmicpc.net/problem/23881) |
 | 26 | 23969 | 버블 정렬 2 (Bubble Sort 2)    | C  | [🔗](https://www.acmicpc.net/problem/23969) |
+| 27   | 10813     | 공 바꾸기                  | C   | [🔗](https://www.acmicpc.net/problem/10813) |

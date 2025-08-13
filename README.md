@@ -47,3 +47,5 @@ Let’s grow, one problem at a time 🚀
 | 25 | 23881 | 선택 정렬 1 (Selection Sort 1) | C  | [🔗](https://www.acmicpc.net/problem/23881) |
 | 26 | 23969 | 버블 정렬 2 (Bubble Sort 2)    | C  | [🔗](https://www.acmicpc.net/problem/23969) |
 | 27   | 10813     | 공 바꾸기                  | C   | [🔗](https://www.acmicpc.net/problem/10813) |
+| 28   | 2869      | 달팽이는 올라가고 싶다     | C   | [🔗](https://www.acmicpc.net/problem/2869) |
+| 29   | 2775      | 부녀회장이 될테야          | C   | [🔗](https://www.acmicpc.net/problem/2775) |

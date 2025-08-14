@@ -49,3 +49,4 @@ Let’s grow, one problem at a time 🚀
 | 27   | 10813     | 공 바꾸기                  | C   | [🔗](https://www.acmicpc.net/problem/10813) |
 | 28   | 2869      | 달팽이는 올라가고 싶다     | C   | [🔗](https://www.acmicpc.net/problem/2869) |
 | 29   | 2775      | 부녀회장이 될테야          | C   | [🔗](https://www.acmicpc.net/problem/2775) |
+| 30   | 2446      | 별 찍기 - 9                | C   | [🔗](https://www.acmicpc.net/problem/2446) |

@@ -51,3 +51,4 @@ Let’s grow, one problem at a time 🚀
 | 29 | 2775 | 부녀회장이 될테야 (I Will Become the Apartment President) | C | [🔗](https://www.acmicpc.net/problem/2775) |
 | 30 | 2446 | 별 찍기 - 9 (Star Printing - 9) | C | [🔗](https://www.acmicpc.net/problem/2446) |
 | 31 | 2309 | 일곱난쟁이 (Seven Dwarfs) | C | [🔗](https://www.acmicpc.net/problem/2309) |
+| 32 | 2587 | 대표값2 (Representative Value 2) | C | [🔗](https://www.acmicpc.net/problem/2587) |

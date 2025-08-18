@@ -1,13 +1,13 @@
 #include<stdio.h>
 
 void sort(int arr[], int size){
-    int min, index, temp;
+    int max, index, temp;
 
     for (int i = 0; i < size; i++) {
-        min = -1;
+        max = -1;
         for (int j = i; j < size; j++) {
-            if (min < arr[j]) {
-                min = arr[j];
+            if (max < arr[j]) {
+                max = arr[j];
                 index = j;
             }
         }

@@ -33,7 +33,7 @@ Let’s grow, one problem at a time 🚀
 | 11   | 5622           | 다이얼(dial)                  | C      | [🔗](https://www.acmicpc.net/problem/5622)   |
 | 12   | 15596       | 정수 N개의 합(Sum of N integers)              | C      | [🔗](https://www.acmicpc.net/problem/15596)   |
 | 13   | 1110       | 더하기 사이클(plus cycle)              | C      | [🔗](https://www.acmicpc.net/problem/1110)   |
-| 14   | 2609       | 최대공약수와 최대공배수(Gcd and lcm )              | C      | [🔗](https://www.acmicpc.net/problem/2609)   |
+| 14   | 2609       | 최대공약수와 최소공배수(Gcd and lcm )              | C      | [🔗](https://www.acmicpc.net/problem/2609)   |
 | 15   | 1712       | 손익분기점(Break-even Point)                         | C      | [🔗](https://www.acmicpc.net/problem/1712)   |
 | 16   | 4659       | 비밀번호 발음하기 (Pronouncing Password)             | C      | [🔗](https://www.acmicpc.net/problem/4659)   |
 | 17   | 2798       | 블랙잭 (Blackjack)                                   | C      | [🔗](https://www.acmicpc.net/problem/2798)   |
@@ -53,3 +53,6 @@ Let’s grow, one problem at a time 🚀
 | 31 | 2309 | 일곱난쟁이 (Seven Dwarfs) | C | [🔗](https://www.acmicpc.net/problem/2309) |
 | 32 | 2587 | 대표값2 (Representative Value 2) | C | [🔗](https://www.acmicpc.net/problem/2587) |
 | 33 | 25305 | 커트라인 (Cutline) | C | [🔗](https://www.acmicpc.net/problem/25305) |
+| 34   | 2231      | 분해합 (Decomposition Sum)  | C    | [🔗](https://www.acmicpc.net/problem/2231) |
+| 35   | 10811     | 바구니 뒤집기 (Basket Reverse)| C    | [🔗](https://www.acmicpc.net/problem/10811) |
+| 36   | 1934      | 최소공배수 (Least Common Multiple) | C    | [🔗](https://www.acmicpc.net/problem/1934) |

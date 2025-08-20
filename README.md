@@ -56,3 +56,4 @@ Let’s grow, one problem at a time 🚀
 | 34   | 2231      | 분해합 (Decomposition Sum)  | C    | [🔗](https://www.acmicpc.net/problem/2231) |
 | 35   | 10811     | 바구니 뒤집기 (Basket Reverse)| C    | [🔗](https://www.acmicpc.net/problem/10811) |
 | 36   | 1934      | 최소공배수 (Least Common Multiple) | C    | [🔗](https://www.acmicpc.net/problem/1934) |
+| 37   | 5086      | 배수와 약수 (Multiples and Divisors) | C    | [🔗](https://www.acmicpc.net/problem/5086) |

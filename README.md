@@ -60,3 +60,4 @@ Let’s grow, one problem at a time 🚀
 | 38 | 10810 | 공 넣기 (Putting Balls) | C | [🔗](https://www.acmicpc.net/problem/10810) |
 | 39 | 1267 | 핸드폰 요금 (Cell Phone Bill) | C | [🔗](https://www.acmicpc.net/problem/1267) |
 | 40   | 2738      | 행렬 덧셈 (Matrix Addition) | C | [🔗](https://www.acmicpc.net/problem/2738) |
+| 41   | 2501      | 약수 구하기 (Divisor) | C | [🔗](https://www.acmicpc.net/problem/2501) |

@@ -63,3 +63,4 @@ Let’s grow, one problem at a time 🚀
 | 41   | 2501      | 약수 구하기 (Divisor) | C | [🔗](https://www.acmicpc.net/problem/2501) |
 | 42   | 1333      | 부재중 전화 (Missed Call) | C | [🔗](https://www.acmicpc.net/problem/1333) |
 | 43   | 1145      | 적어도 대부분의 배수 (Almost Multiple) | C | [🔗](https://www.acmicpc.net/problem/1145) |
+| 43   | 1236      | 성 지키기 (Castle) | C | [🔗](https://www.acmicpc.net/problem/1236) |

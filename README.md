@@ -63,5 +63,6 @@ Let’s grow, one problem at a time 🚀
 | 41   | 2501      | 약수 구하기 (Divisor) | C | [🔗](https://www.acmicpc.net/problem/2501) |
 | 42   | 1333      | 부재중 전화 (Missed Call) | C | [🔗](https://www.acmicpc.net/problem/1333) |
 | 43   | 1145      | 적어도 대부분의 배수 (Almost Multiple) | C | [🔗](https://www.acmicpc.net/problem/1145) |
-| 43   | 1236      | 성 지키기 (Castle) | C | [🔗](https://www.acmicpc.net/problem/1236) |
-| 43   | 2292      | 벌집 (Honeycomb)    | C | [🔗](https://www.acmicpc.net/problem/2292) |
+| 44   | 1236      | 성 지키기 (Castle) | C | [🔗](https://www.acmicpc.net/problem/1236) |
+| 45   | 2292      | 벌집 (Honeycomb)    | C | [🔗](https://www.acmicpc.net/problem/2292) |
+| 46   | 1100      | 하얀 칸 (White Squares) | C | [🔗](https://www.acmicpc.net/problem/1100) |

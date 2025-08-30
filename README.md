@@ -66,3 +66,4 @@ Let’s grow, one problem at a time 🚀
 | 44   | 1236      | 성 지키기 (Castle) | C | [🔗](https://www.acmicpc.net/problem/1236) |
 | 45   | 2292      | 벌집 (Honeycomb)    | C | [🔗](https://www.acmicpc.net/problem/2292) |
 | 46   | 1100      | 하얀 칸 (White Squares) | C | [🔗](https://www.acmicpc.net/problem/1100) |
+| 46   | 11721      | 열 개씩 끊어 출력하기 (Print in Blocks of 10) | C | [🔗](https://www.acmicpc.net/problem/11721) |

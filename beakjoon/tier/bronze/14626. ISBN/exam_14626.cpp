@@ -9,8 +9,7 @@ int main(){
     cin>>str;
     int idx = str.find("*");
     
-    for (int i = 0; i < 10; i++)
-    {
+    for (int i = 0; i < 10; i++) {
         sum=0;
         str[idx] = i+'0';
         for(int j=0; j<13; j++){

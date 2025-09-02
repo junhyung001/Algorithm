@@ -6,7 +6,8 @@
 !*.py
 !beakjoon/
 !beakjoon/tier/
-!beakjoon/tier/bronze/
+!beakjoon/tier/bronze/14626. ISBN
+!beakjoon/tier/bronze/10922. 팰린드롬인지 확인하기
 !beakjoon/tier/silver/
 !beakjoon/tier/Gold/
 !Algorithm/

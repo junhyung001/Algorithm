@@ -1,6 +1,6 @@
 # 훼손된 ISBN
 
-## 문제 설명
+## 문제
 
 ![BOJ_ISBN](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14626/1.png)
 

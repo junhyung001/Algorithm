@@ -1,14 +1,27 @@
+# 기본적으로 모든 파일 무시
 *
+
+# 추적할 파일/폴더 예외 처리
 !.gitignore
 !README.md
+
+# 소스코드 파일 추적
 !*.c
 !*.cpp
 !*.py
+
+# Beakjoon 관련
 !beakjoon/
 !beakjoon/tier/
-!beakjoon/tier/bronze/14626. ISBN
-!beakjoon/tier/bronze/10922. 팰린드롬인지 확인하기
+!beakjoon/tier/bronze/
 !beakjoon/tier/silver/
 !beakjoon/tier/Gold/
+
+# 특정 문제 파일
+!beakjoon/tier/bronze/14626. ISBN
+!beakjoon/tier/bronze/10922. 팰린드롬인지 확인하기
+!beakjoon/tier/bronze/10798. 세로읽기
+
+# 알고리즘 관련
 !Algorithm/
-!Algorithm/Sorting_Algorithm
+!Algorithm/Sorting_Algorithm/

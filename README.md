@@ -1,7 +1,5 @@
 # Baekjoon
 
-![GitHub repo size](https://img.shields.io/github/repo-size/junhyung001/Algorithm)
-![GitHub last commit](https://img.shields.io/github/last-commit/junhyung001/Algorithm)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jun_hyung)
 
 > Automated algorithm solution powered by BaekjoonHub

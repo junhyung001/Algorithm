@@ -13,22 +13,33 @@ void push(int x){
 }
 
 void pop(){
-    if (empty()) cout << -1 << "\n";
-    else cout << q[f++] << "\n";
+    if (empty()) {
+        cout << -1 << "\n";
+    }else{
+        cout << q[f++]<< "\n";
+    }
 }
 
 void size(){
-    cout << r - f << "\n";
+    cout << r-f << "\n";
 }
 
 void front(){
-    if (empty()) cout << -1 << "\n";
-    else cout << q[f] << "\n";
+    if (empty()) {
+        cout << -1 << "\n";
+    }else{
+        cout << q[f] << "\n";
+    }
+    
 }
 
 void back(){
-    if (empty()) cout << -1 << "\n";
-    else cout << q[r-1] << "\n";
+    if (empty()) {
+        cout << -1 << "\n";
+    }else{
+        cout << q[r-1] << "\n";
+    }
+    
 }
 
 int main(){

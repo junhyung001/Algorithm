@@ -29,7 +29,9 @@ int main() {
     sort(m.begin(), m.end());
 
     for (int i = 0; i < a; i++) {
-        if(!binary_search(m.begin(), m.end(), n[i])){
+        if(binary_search(m.begin(), m.end(), n[i])){
+            continue;
+        }else{
             k.push_back(n[i]);
         }
     }

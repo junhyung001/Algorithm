@@ -5,14 +5,13 @@ using namespace std;
 void print(int n){
     if (n %3 == 0 && n % 5 == 0) {
         cout << "FizzBuzz";
-    }else if(n%3==0 && !(n%5==0)){
+    }else if( n%3==0 ){
         cout << "Fizz";
-    }else if( !((n%3==0)) && n%5==0){
+    }else if( n%5==0 ){
         cout << "Buzz";
     }else{
         cout << n;
-    }
-    
+    }   
 }
 
 int main(){

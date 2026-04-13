@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-    int n, k;
+    int n;
     cin >> n;
 
     vector<double> a(n);
